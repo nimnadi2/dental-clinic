@@ -13,7 +13,7 @@ A full-stack web application for managing a dental clinic's appointments, doctor
 
 ### Admin Panel
 - **Secure Login** – Admin authentication system
-- **Dashboard** – Real-time stats (total, pending, approved, completed, cancelled, today's appointments)
+- **Dashboard** – Real-time stats (total, pending, approved, completed, cancelled, today appointments)
 - **Bookings by Service** – Visual chart showing appointment distribution
 - **Appointment Management** – Search appointments and update status (Pending → Approved → Completed / Cancelled), with assigned doctor visible per booking
 - **Doctor Management** – Add and remove doctors with specialty, experience, and profile icon
