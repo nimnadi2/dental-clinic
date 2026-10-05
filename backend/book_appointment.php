@@ -55,3 +55,4 @@ if (!empty($data['patient_name']) && !empty($data['phone']) && !empty($data['ser
     echo json_encode(["status" => "error", "message" => "Please fill all fields!"]);
     exit;
 }
+?>
